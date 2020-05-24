@@ -1,0 +1,115 @@
+## Project-specific files and folders #########################################
+
+
+## Package Management #########################################################
+
+/node_modules
+/jspm_packages
+/bower_components
+.npm
+.yarn-integrity
+
+
+## Code Editors ###############################################################
+
+# Sublime Text
+*.tmlanguage.cache
+*.tmPreferences.cache
+*.stTheme.cache
+*.sublime-workspace
+*.sublime-project
+
+# VS Code
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+
+# WebStorm/IntelliJ
+/.idea
+modules.xml
+*.ipr
+*.iml
+
+# Misc
+*.project
+*.settings
+*.tmproj
+*.esproj
+*.expressostorage
+*.orig
+.eslintcache
+_notes
+codekit-config.json
+dwsync.xml
+
+
+## Compiled source ############################################################
+
+*.com
+*.class
+*.dll
+*.exe
+*.o
+*.so
+
+
+## Logs and databases #########################################################
+
+*.log
+*.sql
+*.sqlite
+log/*.log
+logs
+db/*.sqlite3
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+
+## Packages (better to unpack these files and commit the raw source) ##########
+
+*.7z
+*.dmg
+*.gz
+*.iso
+*.jar
+*.rar
+*.tar
+*.zip
+
+
+## Generic files to ignore ####################################################
+
+*~
+*.DS_Store
+._*
+*.lock
+*.out
+*.pyc
+*.swp
+*.sw[nop]
+.AppleDouble
+.bundle
+.byebug_history
+.com.apple.timemachine.donotpresent
+.DocumentRevisions-V100
+.env
+.env.*
+.fseventsd
+.LSOverride
+.Spotlight-V100
+.TemporaryItems
+.Trashes
+.VolumeIcon.icns
+$RECYCLE.BIN/
+ehthumbs.db
+ehthumbs_vista.db
+Desktop.ini
+tags
+!tags/
+tmp/**/*
+!tmp/cache/.keep
+Thumbs.db
+rerun.txt
