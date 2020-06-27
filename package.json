@@ -1,0 +1,20 @@
+{
+  "name": "alfred-emoji-snippets",
+  "version": "1.0.0",
+  "description": "Emoji Snippets for Alfred App",
+  "author": "Eric Bailey",
+  "keywords": [
+    "alfred",
+    "emoji",
+    "snippet"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://ericwbailey@github.com/ericwbailey/alfred-emoji-snippets.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ericwbailey/alfred-emoji-snippets/issues"
+  },
+  "license": "MIT",
+  "homepage": "https://github.com/ericwbailey/alfred-emoji-snippets#readme"
+}
