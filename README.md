@@ -11,7 +11,7 @@ Project heavily inspired by [Joel Califa's Alfred Emoji Pack](http://joelcalifa.
 
 **Q:** Doesn't `$app` already do this?
 
-**A:** I like Aflred.
+**A:** I like Alfred.
 
 **Q:** How do I install this?
 
